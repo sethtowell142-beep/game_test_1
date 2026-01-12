@@ -128,6 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="guess_the_number.c" />
+    <ClCompile Include="minesweeping.c" />
+    <ClCompile Include="minesweep_x.c" />
+    <ClCompile Include="trick.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="minesweep.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

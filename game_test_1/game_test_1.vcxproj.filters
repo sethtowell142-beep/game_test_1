@@ -18,5 +18,19 @@
     <ClCompile Include="guess_the_number.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="trick.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minesweeping.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="minesweep_x.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="minesweep.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
